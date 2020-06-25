@@ -2,9 +2,8 @@
 
 Aprendizagem Automática II - Universidade do Minho
 
-* Célia Manuela Fernandes Ferreira
-
 * Mohammad Reza Tabrizi
+* Célia Manuela Fernandes Ferreira
 
 Este repositório inclui propostas de modelos de <b>machine learning</b> e <b>deep learning</b> que visam identificar o COVID-19 em imagens pulmonares.
 
